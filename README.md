@@ -1,15 +1,21 @@
-# Hi there, I'm [Abdelthman](https://mein-portfolio-beta.vercel.app/) 👋
+# Hi there, I'm [Abdelrhman](https://mein-portfolio-beta.vercel.app/) 👋
 
 ## About Me
 
-I'm a [frontend / backend / full-stack] developer with [number of years] of experience in [languages / frameworks / tools]. I'm passionate about [area of interest] and enjoy building [types of projects] using [relevant technologies].
+I am a skilled Full Stack developer proficient in modern web technologies such as HTML, CSS, Bootstrap, Tailwind CSS, React, Redux, Node.js, Express.js, and MongoDB. I use these technologies to design and develop advanced web applications, working hard to ensure excellent user experience and high-quality performance. I am passionate about learning new technology and constantly training myself to improve my skills.
 
 ## Skills
 
 - [HTML]
 - [CSS]
 - [JS]
-- ...
+- [TailwindCss]
+- [ReactJs]
+- [Redux]
+- [Material UI]
+- [NodeJs]
+- [Express]
+- [Mongodb]
 
 ## Projects
 
