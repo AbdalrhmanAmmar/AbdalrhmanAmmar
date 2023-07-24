@@ -26,7 +26,6 @@ I am a skilled Full Stack developer proficient in modern web technologies such a
 
 ## Contact Me
 
-- [Email](mailto:your-email@example.com)
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- [Website](https://your-website.com/)
-- [Twitter](https://twitter.com/your-handle/)
+- [Email](abdalrhmanammarofficial@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/abdelrahman-ar/)
+
