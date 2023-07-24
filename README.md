@@ -9,7 +9,7 @@ I am a skilled Full Stack developer proficient in modern web technologies such a
 - <img align="center" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> HTML
 - <img align="center" src="https://img.icons8.com/color/48/000000/css3.png"/> CSS
 - <img align="center" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> JavaScript
-- <img align="center" src="https://img.icons8.com/color/48/000000/tailwind-css.png"/> Tailwind CSS
+- <img align="center" src="https://img.icons8.com/color/48/000000/tailwind-css-icon.png"/> Tailwind CSS
 - <img align="center" src="https://img.icons8.com/color/48/000000/react-native.png"/> React
 - <img align="center" src="https://img.icons8.com/color/48/000000/redux.png"/> Redux
 - <img align="center" src="https://img.icons8.com/color/48/000000/material-ui.png"/> Material UI
